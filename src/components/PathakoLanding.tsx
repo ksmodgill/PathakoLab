@@ -287,7 +287,7 @@ const packages = [
 const processSteps = [
   {
     title: "Call or WhatsApp",
-    description: "Call or WhatsApp Pathako Lab with the test name and preferred timing.",
+    description: "Call or WhatsApp S. P. L Path Lab with the test name and preferred timing.",
     icon: PhoneCall,
   },
   {
@@ -443,7 +443,7 @@ export function PathakoLanding() {
           <a
             href="#"
             className="flex items-center gap-3"
-            aria-label="S. P. L. Path Lab home"
+            aria-label="S. P. L Path Lab home"
             onClick={() => setIsMenuOpen(false)}
           >
             <span className="flex size-11 items-center justify-center rounded-2xl bg-[#0E5CAD] text-white shadow-lg shadow-blue-900/15">
@@ -451,7 +451,7 @@ export function PathakoLanding() {
             </span>
             <span>
               <span className="font-heading block text-lg font-bold leading-5 text-[#1B2A41]">
-                S. P. L. Path Lab
+                S. P. L Path Lab
               </span>
               <span className="text-[10px] font-medium text-[#5F6B7A]">
                 Dr. V. Khare, M.D. Pathologist
@@ -476,10 +476,10 @@ export function PathakoLanding() {
               {business.phone}
             </a>
             <a
-              href={whatsappUrl("Hello Pathako Lab, I need help with a pathology test.")}
+              href={whatsappUrl("Hello S. P. L Path Lab, I need help with a pathology test.")}
               target="_blank"
               rel="noreferrer"
-              aria-label="WhatsApp Pathako Lab"
+              aria-label="WhatsApp S. P. L Path Lab"
               className="flex size-12 items-center justify-center gap-2 rounded-full bg-[#0E5CAD] text-white shadow-[0_14px_32px_rgba(14,92,173,0.22)] transition hover:-translate-y-0.5 hover:bg-[#0A4C94] sm:w-auto sm:px-5 sm:text-sm sm:font-bold"
             >
               <MessageCircle className="size-5" />
@@ -510,14 +510,14 @@ export function PathakoLanding() {
                 href="#"
                 onClick={() => setIsMenuOpen(false)}
                 className="flex items-center gap-3"
-                aria-label="S. P. L. Path Lab home"
+                aria-label="S. P. L Path Lab home"
               >
                 <span className="flex size-11 items-center justify-center rounded-2xl bg-[#0E5CAD] text-white">
                   <Microscope className="size-6" />
                 </span>
                 <span>
                   <span className="font-heading block text-base font-bold leading-5 text-[#1B2A41]">
-                    S. P. L. Path Lab
+                    S. P. L Path Lab
                   </span>
                   <span className="text-[10px] font-medium text-[#5F6B7A]">
                     Dr. V. Khare, M.D.
@@ -557,7 +557,7 @@ export function PathakoLanding() {
                 Need Help?
               </p>
               <h2 className="font-heading mt-2 text-2xl font-bold">
-                Speak with Pathako Lab
+                Speak with S. P. L Path Lab
               </h2>
               <p className="mt-3 text-sm leading-6 text-white/75">
                 Call or WhatsApp for test guidance, home collection, directions,
@@ -573,7 +573,7 @@ export function PathakoLanding() {
                   Call Now
                 </a>
                 <a
-                  href={whatsappUrl("Hello Pathako Lab, I need help with a pathology test.")}
+                  href={whatsappUrl("Hello S. P. L Path Lab, I need help with a pathology test.")}
                   target="_blank"
                   rel="noreferrer"
                   onClick={() => setIsMenuOpen(false)}
@@ -675,7 +675,7 @@ export function PathakoLanding() {
                 Call Now
               </a>
               <a
-                href={whatsappUrl(`Hello Pathako Lab, I need help with ${selectedService.shortTitle}.`)}
+                href={whatsappUrl(`Hello S. P. L Path Lab, I need help with ${selectedService.shortTitle}.`)}
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-[#28C76F] px-6 py-3 text-sm font-bold text-white"
@@ -742,7 +742,7 @@ export function PathakoLanding() {
                 Call Now
               </PrimaryButton>
               <OutlineButton
-                href={whatsappUrl("Hello Pathako Lab, please share details for pathology tests.")}
+                href={whatsappUrl("Hello S. P. L Path Lab, please share details for pathology tests.")}
                 icon={MessageCircle}
               >
                 WhatsApp
@@ -825,9 +825,9 @@ export function PathakoLanding() {
 
       <AnimatedSection className="px-4 py-12 sm:px-6 lg:px-8">
         <SectionHeader
-          eyebrow="Why choose Pathako Lab"
+          eyebrow="Why choose S. P. L Path Lab"
           title="Patient-first diagnostic care"
-          description="Pathako Lab supports families, senior citizens, diabetic patients, doctors, and working professionals across Gwalior with practical testing guidance by phone and WhatsApp."
+          description="S. P. L Path Lab supports families, senior citizens, diabetic patients, doctors, and working professionals across Gwalior with practical testing guidance by phone and WhatsApp."
         />
         <div className="mx-auto grid max-w-7xl gap-5 md:grid-cols-2 lg:grid-cols-3">
           {whyChoose.map((item) => (
@@ -895,7 +895,7 @@ export function PathakoLanding() {
               </h3>
             </div>
             <a
-              href={whatsappUrl("Hello Pathako Lab, please help me choose the right blood test.")}
+              href={whatsappUrl("Hello S. P. L Path Lab, please help me choose the right blood test.")}
               target="_blank"
               rel="noreferrer"
               className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-[#EAFBF1] px-5 py-3 text-sm font-bold text-[#159A4E]"
@@ -932,7 +932,7 @@ export function PathakoLanding() {
                 </button>
               ) : (
                 <a
-                  href={whatsappUrl(`Hello Pathako Lab, I need help with ${test.title}.`)}
+                  href={whatsappUrl(`Hello S. P. L Path Lab, I need help with ${test.title}.`)}
                   className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-[#0E5CAD]"
                 >
                   WhatsApp
@@ -958,7 +958,7 @@ export function PathakoLanding() {
               Call Our Team
             </a>
             <a
-              href={whatsappUrl("Hello Pathako Lab, I need a blood test today.")}
+              href={whatsappUrl("Hello S. P. L Path Lab, I need a blood test today.")}
               target="_blank"
               rel="noreferrer"
               className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-[#28C76F] px-5 py-3 text-sm font-bold text-white"
@@ -1026,7 +1026,7 @@ export function PathakoLanding() {
             </div>
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
               <PrimaryButton
-                href={whatsappUrl("Hello Pathako Lab, I want to schedule home sample collection.")}
+                href={whatsappUrl("Hello S. P. L Path Lab, I want to schedule home sample collection.")}
                 icon={MessageCircle}
               >
                 WhatsApp
@@ -1043,13 +1043,13 @@ export function PathakoLanding() {
         <div className="mx-auto grid max-w-7xl gap-10 lg:grid-cols-[1fr_1fr] lg:items-center">
           <div>
             <p className="mb-3 text-sm font-semibold uppercase tracking-[0.22em] text-[#00B8D9]">
-              About Pathako Lab
+              About S. P. L Path Lab
             </p>
             <h2 className="font-heading text-balance text-3xl font-bold text-[#1B2A41] md:text-5xl">
               Local Lab for Everyday Diagnostics
             </h2>
             <p className="mt-5 text-lg leading-8 text-[#5F6B7A]">
-              Pathako Lab provides pathology services in Gwalior for routine
+              S. P. L Path Lab provides pathology services in Gwalior for routine
               blood tests, preventive health checkups, fever investigations,
               diabetes monitoring, and home sample collection. The laboratory is
               supervised by Dr. V. Khare, M.D. Pathologist.
@@ -1066,7 +1066,7 @@ export function PathakoLanding() {
             </p>
             <div className="mt-8">
               <PrimaryButton
-                href={whatsappUrl("Hello Pathako Lab, please share details about your pathology services.")}
+                href={whatsappUrl("Hello S. P. L Path Lab, please share details about your pathology services.")}
                 icon={MessageCircle}
               >
                 Questions About a Test?
@@ -1105,7 +1105,7 @@ export function PathakoLanding() {
               Trusted by Families Across Gwalior
             </h2>
             <p className="mt-2 leading-7 text-[#5F6B7A]">
-              Pathako Lab supports patients from Shatabdipuram, Deen Dayal
+              S. P. L Path Lab supports patients from Shatabdipuram, Deen Dayal
               Nagar, City Centre, Morar, Lashkar, and nearby residential areas.
               For home sample collection in Gwalior, call first so the
               team can confirm timing and availability for your location.
@@ -1143,7 +1143,7 @@ export function PathakoLanding() {
               <p className="mt-3 leading-7 text-[#5F6B7A]">
                 A useful report should be carefully processed, clearly
                 presented, and easy for the treating doctor to interpret.
-                Pathako Lab keeps this patient-first approach at the center of
+                S. P. L Path Lab keeps this patient-first approach at the center of
                 its diagnostic work.
               </p>
             </div>
@@ -1157,7 +1157,7 @@ export function PathakoLanding() {
             </h3>
             <p className="mt-5 text-lg leading-8 text-[#5F6B7A]">
               Dr. V. Khare, M.D. Pathologist, supervises the diagnostic
-              reporting process at Pathako Lab. His role supports careful review
+              reporting process at S. P. L Path Lab. His role supports careful review
               of routine hematology, biochemistry, diabetes monitoring, thyroid
               testing, urine examination, fever-related investigations, and
               preventive health checkups.
@@ -1209,7 +1209,7 @@ export function PathakoLanding() {
                 ))}
               </ul>
               <a
-                href={whatsappUrl(`Hello Pathako Lab, I want details for ${item.title}.`)}
+                href={whatsappUrl(`Hello S. P. L Path Lab, I want details for ${item.title}.`)}
                 className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-[#EAFBF1] px-5 py-3 text-sm font-bold text-[#159A4E] transition hover:bg-[#D8F7E5]"
               >
                 Get Package Price
@@ -1224,7 +1224,7 @@ export function PathakoLanding() {
         <SectionHeader
           eyebrow="How it works"
           title="Simple Call to Reports"
-          description="Pathako Lab keeps the experience quick, clear, and convenient for patients and referring doctors."
+          description="S. P. L Path Lab keeps the experience quick, clear, and convenient for patients and referring doctors."
         />
         <div className="mx-auto max-w-7xl rounded-[2rem] bg-white p-5 shadow-[0_24px_80px_rgba(14,92,173,0.1)] md:p-8">
           <div className="grid gap-6 lg:grid-cols-4">
@@ -1269,7 +1269,7 @@ export function PathakoLanding() {
             </p>
             <div className="mt-7">
               <PrimaryButton
-                href={whatsappUrl("Hello Pathako Lab, I need help with report delivery.")}
+                href={whatsappUrl("Hello S. P. L Path Lab, I need help with report delivery.")}
                 icon={MessageCircle}
               >
                 Ask About Reports
@@ -1328,7 +1328,7 @@ export function PathakoLanding() {
         <SectionHeader
           eyebrow="FAQ"
           title="Answers before you call"
-          description="For test-specific preparation and urgent availability, call or WhatsApp Pathako Lab directly."
+          description="For test-specific preparation and urgent availability, call or WhatsApp S. P. L Path Lab directly."
         />
         <div className="mx-auto grid max-w-7xl gap-4">
           {homepageFaqs.slice(0, 20).map((faq) => (
@@ -1365,7 +1365,7 @@ export function PathakoLanding() {
               <div className="flex gap-4">
                 <Building2 className="mt-1 size-6 shrink-0 text-[#9CEBFF]" />
                 <div>
-                  <p className="font-heading text-xl font-bold">Pathako Lab</p>
+                  <p className="font-heading text-xl font-bold">S. P. L Path Lab</p>
                   <p className="text-white/78">Dr. V. Khare, M.D. Pathologist</p>
                 </div>
               </div>
@@ -1405,7 +1405,7 @@ export function PathakoLanding() {
                 Call Now
               </a>
               <a
-                href={whatsappUrl("Hello Pathako Lab, I need help with a pathology test.")}
+                href={whatsappUrl("Hello S. P. L Path Lab, I need help with a pathology test.")}
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-[#28C76F] px-5 py-3 text-sm font-bold text-white"
@@ -1428,7 +1428,7 @@ export function PathakoLanding() {
 
           <div className="min-h-[28rem] overflow-hidden rounded-[2rem] bg-white shadow-[0_24px_80px_rgba(14,92,173,0.12)] lg:h-full">
             <iframe
-              title="Pathako Lab location map"
+              title="S. P. L Path Lab location map"
               src={`https://www.google.com/maps?q=${encodeURIComponent(fullAddress)}&output=embed`}
               className="h-full min-h-[28rem] w-full border-0"
               loading="lazy"
@@ -1443,7 +1443,7 @@ export function PathakoLanding() {
           <div className="grid gap-6 lg:grid-cols-[1fr_auto] lg:items-center">
             <div>
               <p className="mb-3 text-sm font-semibold uppercase tracking-[0.22em] text-[#9CEBFF]">
-                Talk to Pathako Lab
+                Talk to S. P. L Path Lab
               </p>
               <h2 className="font-heading text-balance text-3xl font-bold md:text-5xl">
                 Diagnostic Test in Gwalior?
@@ -1463,7 +1463,7 @@ export function PathakoLanding() {
                 Call Now
               </a>
               <a
-                href={whatsappUrl("Hello Pathako Lab, I need a diagnostic test in Gwalior.")}
+                href={whatsappUrl("Hello S. P. L Path Lab, I need a diagnostic test in Gwalior.")}
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-[#28C76F] px-6 py-3 text-sm font-bold text-white"
@@ -1484,7 +1484,7 @@ export function PathakoLanding() {
                 <Microscope className="size-6" />
               </span>
               <div>
-                <p className="font-heading text-xl font-bold">S. P. L. Path Lab</p>
+                <p className="font-heading text-xl font-bold">S. P. L Path Lab</p>
                 <p className="text-sm text-white/65">Gwalior Diagnostic Services</p>
               </div>
             </div>
@@ -1523,17 +1523,17 @@ export function PathakoLanding() {
               <span>Business Hours: 24×7</span>
               <div className="flex gap-3 pt-2">
                 <a
-                  href={whatsappUrl("Hello Pathako Lab, I need help with a pathology test.")}
+                  href={whatsappUrl("Hello S. P. L Path Lab, I need help with a pathology test.")}
                   target="_blank"
                   rel="noreferrer"
-                  aria-label="WhatsApp Pathako Lab"
+                  aria-label="WhatsApp S. P. L Path Lab"
                   className="flex size-10 items-center justify-center rounded-full bg-white/10 text-white transition hover:bg-[#28C76F]"
                 >
                   <MessageCircle className="size-5" />
                 </a>
                 <a
                   href={phoneHref}
-                  aria-label="Call Pathako Lab"
+                  aria-label="Call S. P. L Path Lab"
                   className="flex size-10 items-center justify-center rounded-full bg-white/10 text-white transition hover:bg-[#0E5CAD]"
                 >
                   <PhoneCall className="size-5" />
@@ -1542,7 +1542,7 @@ export function PathakoLanding() {
                   href={directionsUrl}
                   target="_blank"
                   rel="noreferrer"
-                  aria-label="Get directions to Pathako Lab"
+                  aria-label="Get directions to S. P. L Path Lab"
                   className="flex size-10 items-center justify-center rounded-full bg-white/10 text-white transition hover:bg-[#00B8D9]"
                 >
                   <Navigation className="size-5" />
@@ -1552,7 +1552,7 @@ export function PathakoLanding() {
           </div>
         </div>
         <div className="mx-auto mt-10 flex max-w-7xl flex-col gap-3 border-t border-white/10 pt-6 text-sm text-white/55 md:flex-row md:items-center md:justify-between">
-          <p>Copyright © {new Date().getFullYear()} Pathako Lab. All rights reserved.</p>
+          <p>Copyright © {new Date().getFullYear()} S. P. L Path Lab. All rights reserved.</p>
           <p>
             Designed and Developed by{" "}
             <a
@@ -1580,7 +1580,7 @@ export function PathakoLanding() {
             Call Now
           </a>
           <a
-            href={whatsappUrl("Hello Pathako Lab, I need help with a pathology test.")}
+            href={whatsappUrl("Hello S. P. L Path Lab, I need help with a pathology test.")}
             target="_blank"
             rel="noreferrer"
             className="flex min-h-12 items-center justify-center gap-2 rounded-2xl bg-[#28C76F] px-4 py-3 text-sm font-bold text-white shadow-[0_12px_30px_rgba(40,199,111,0.24)]"

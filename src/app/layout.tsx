@@ -18,9 +18,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   metadataBase: new URL("https://pathakolab.com"),
   title:
-    "Pathako Lab Gwalior | Blood Test & Pathology Laboratory | 24×7 Diagnostic Services",
+    "S. P. L Path Lab Gwalior | Blood Test & Pathology Laboratory | 24×7 Diagnostic Services",
   description:
-    "Pathako Lab is a pathology lab in Gwalior offering blood tests, health packages, home sample collection, and 24×7 diagnostic support under Dr. V. Khare, M.D. Pathologist.",
+    "S. P. L Path Lab is a pathology lab in Gwalior offering blood tests, health packages, home sample collection, and 24×7 diagnostic support under Dr. V. Khare, M.D. Pathologist.",
   keywords: [
     "pathology lab in gwalior",
     "blood test in gwalior",
@@ -32,11 +32,11 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title:
-      "Pathako Lab Gwalior | Blood Test & Pathology Laboratory | 24×7 Diagnostic Services",
+      "S. P. L Path Lab Gwalior | Blood Test & Pathology Laboratory | 24×7 Diagnostic Services",
     description:
       "Blood tests, preventive health packages, and home sample collection in Gwalior, Madhya Pradesh.",
     url: "https://pathakolab.com",
-    siteName: "Pathako Lab",
+    siteName: "S. P. L Path Lab",
     locale: "en_IN",
     type: "website",
   },

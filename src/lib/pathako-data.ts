@@ -1,5 +1,5 @@
 export const business = {
-  name: "Pathako Lab",
+  name: "S. P. L Path Lab",
   doctor: "Dr. V. Khare",
   doctorTitle: "M.D. Pathologist",
   phone: "6266205671",
@@ -46,7 +46,7 @@ export const homepageFaqs = [
   {
     question: "Is home sample collection available in Gwalior?",
     answer:
-      "Yes. Pathako Lab provides home sample collection in Gwalior. You can call or WhatsApp to share your address, preferred time, and test requirement.",
+      "Yes. S. P. L Path Lab provides home sample collection in Gwalior. You can call or WhatsApp to share your address, preferred time, and test requirement.",
   },
   {
     question: "Do I need fasting before a blood test?",
@@ -61,12 +61,12 @@ export const homepageFaqs = [
   {
     question: "Are emergency tests available?",
     answer:
-      "For urgent testing needs, call Pathako Lab directly on 6266205671. The team will confirm test availability, sample timing, and expected report delivery.",
+      "For urgent testing needs, call S. P. L Path Lab directly on 6266205671. The team will confirm test availability, sample timing, and expected report delivery.",
   },
   {
     question: "Do you provide 24-hour service?",
     answer:
-      "Pathako Lab provides 24×7 blood testing support. Calling before visiting is recommended for urgent or late-night tests.",
+      "S. P. L Path Lab provides 24×7 blood testing support. Calling before visiting is recommended for urgent or late-night tests.",
   },
   {
     question: "What payment methods are accepted?",
@@ -176,7 +176,7 @@ export const patientReviews = [
     date: "19 Apr 2026",
     rating: 5,
     review:
-      "We use Pathako Lab for routine family checkups. The staff is calm, responsive, and clear about reporting timelines.",
+      "We use S. P. L Path Lab for routine family checkups. The staff is calm, responsive, and clear about reporting timelines.",
   },
   {
     initials: "SJ",
@@ -227,9 +227,9 @@ export const servicePages: ServicePage[] = [
     title: "Blood Testing in Gwalior",
     shortTitle: "Blood Testing",
     metaDescription:
-      "Call or WhatsApp Pathako Lab for routine blood tests in Gwalior, including CBC, sugar, thyroid, liver, kidney, lipid, and fever-related investigations.",
+      "Call or WhatsApp S. P. L Path Lab for routine blood tests in Gwalior, including CBC, sugar, thyroid, liver, kidney, lipid, and fever-related investigations.",
     introduction:
-      "Blood testing helps your doctor understand infection, anemia, sugar levels, organ function, and other health markers. Pathako Lab offers routine blood test in Gwalior with clear preparation guidance and report delivery support.",
+      "Blood testing helps your doctor understand infection, anemia, sugar levels, organ function, and other health markers. S. P. L Path Lab offers routine blood test in Gwalior with clear preparation guidance and report delivery support.",
     symptoms: ["Fever or weakness", "Fatigue", "Dizziness", "Unexplained weight change", "Body pain", "Routine health monitoring"],
     whyNeeded:
       "A blood test can support diagnosis, monitor ongoing treatment, and help detect changes before symptoms become serious.",
@@ -252,9 +252,9 @@ export const servicePages: ServicePage[] = [
     title: "Diabetes Testing in Gwalior",
     shortTitle: "Diabetes Testing",
     metaDescription:
-      "Schedule fasting sugar, post-meal sugar, HbA1c, and diabetes monitoring tests in Gwalior with Pathako Lab.",
+      "Schedule fasting sugar, post-meal sugar, HbA1c, and diabetes monitoring tests in Gwalior with S. P. L Path Lab.",
     introduction:
-      "Diabetes testing helps track blood sugar control and supports treatment decisions. Pathako Lab provides fasting sugar, post-meal sugar, HbA1c, and related monitoring tests for patients in Gwalior.",
+      "Diabetes testing helps track blood sugar control and supports treatment decisions. S. P. L Path Lab provides fasting sugar, post-meal sugar, HbA1c, and related monitoring tests for patients in Gwalior.",
     symptoms: ["Frequent urination", "Increased thirst", "Unexplained tiredness", "Slow wound healing", "Blurred vision", "Known diabetes"],
     whyNeeded:
       "Regular monitoring helps your doctor adjust diet, medicines, and follow-up care based on current sugar control.",
@@ -277,9 +277,9 @@ export const servicePages: ServicePage[] = [
     title: "Thyroid Testing in Gwalior",
     shortTitle: "Thyroid Testing",
     metaDescription:
-      "Call or WhatsApp Pathako Lab for T3, T4, and TSH thyroid testing in Gwalior with clear report sharing and preparation guidance.",
+      "Call or WhatsApp S. P. L Path Lab for T3, T4, and TSH thyroid testing in Gwalior with clear report sharing and preparation guidance.",
     introduction:
-      "Thyroid tests measure hormone levels that can affect energy, weight, mood, heart rate, and menstrual health. Pathako Lab offers thyroid testing in Gwalior for routine and doctor-advised evaluation.",
+      "Thyroid tests measure hormone levels that can affect energy, weight, mood, heart rate, and menstrual health. S. P. L Path Lab offers thyroid testing in Gwalior for routine and doctor-advised evaluation.",
     symptoms: ["Tiredness", "Weight gain or weight loss", "Hair fall", "Mood changes", "Irregular periods", "Palpitations"],
     whyNeeded:
       "Thyroid testing helps identify whether symptoms may be linked to underactive or overactive thyroid function.",
@@ -302,7 +302,7 @@ export const servicePages: ServicePage[] = [
     title: "Liver Function Testing in Gwalior",
     shortTitle: "Liver Function Testing",
     metaDescription:
-      "Call or WhatsApp Pathako Lab for Liver Function Test in Gwalior, including SGOT, SGPT, bilirubin, proteins, and related liver markers.",
+      "Call or WhatsApp S. P. L Path Lab for Liver Function Test in Gwalior, including SGOT, SGPT, bilirubin, proteins, and related liver markers.",
     introduction:
       "Liver Function Tests help assess liver enzymes, bilirubin, and proteins. These tests are commonly advised for jaundice symptoms, medication monitoring, alcohol-related concerns, and general health screening.",
     symptoms: ["Yellowing of eyes or skin", "Dark urine", "Abdominal discomfort", "Nausea", "Loss of appetite", "Unexplained tiredness"],
@@ -327,7 +327,7 @@ export const servicePages: ServicePage[] = [
     title: "Kidney Function Testing in Gwalior",
     shortTitle: "Kidney Function Testing",
     metaDescription:
-      "Schedule Kidney Function Test in Gwalior at Pathako Lab for urea, creatinine, uric acid, electrolytes, and related monitoring.",
+      "Schedule Kidney Function Test in Gwalior at S. P. L Path Lab for urea, creatinine, uric acid, electrolytes, and related monitoring.",
     introduction:
       "Kidney Function Tests help check how well the kidneys are filtering waste and maintaining body balance. They are important for diabetes, blood pressure, swelling, and medication monitoring.",
     symptoms: ["Swelling in feet or face", "High blood pressure", "Reduced urine output", "Fatigue", "Diabetes", "Known kidney concerns"],
@@ -352,9 +352,9 @@ export const servicePages: ServicePage[] = [
     title: "Cholesterol Testing in Gwalior",
     shortTitle: "Cholesterol Testing",
     metaDescription:
-      "Call or WhatsApp Pathako Lab for lipid profile and cholesterol testing in Gwalior for heart-risk monitoring and preventive checkups.",
+      "Call or WhatsApp S. P. L Path Lab for lipid profile and cholesterol testing in Gwalior for heart-risk monitoring and preventive checkups.",
     introduction:
-      "A lipid profile measures cholesterol and triglyceride levels that help your doctor assess heart and lifestyle-related risk. Pathako Lab provides cholesterol testing in Gwalior with preparation guidance.",
+      "A lipid profile measures cholesterol and triglyceride levels that help your doctor assess heart and lifestyle-related risk. S. P. L Path Lab provides cholesterol testing in Gwalior with preparation guidance.",
     symptoms: ["Family history of heart disease", "High blood pressure", "Diabetes", "Overweight", "Sedentary lifestyle", "Preventive screening need"],
     whyNeeded:
       "Cholesterol testing helps identify risk factors that may need lifestyle changes, medicine review, or follow-up care.",
@@ -377,9 +377,9 @@ export const servicePages: ServicePage[] = [
     title: "Vitamin Testing in Gwalior",
     shortTitle: "Vitamin Testing",
     metaDescription:
-      "Schedule Vitamin D, Vitamin B12, and related vitamin testing in Gwalior at Pathako Lab.",
+      "Schedule Vitamin D, Vitamin B12, and related vitamin testing in Gwalior at S. P. L Path Lab.",
     introduction:
-      "Vitamin testing can help evaluate deficiencies that may contribute to tiredness, body pain, nerve symptoms, or bone health concerns. Pathako Lab offers commonly requested vitamin tests in Gwalior.",
+      "Vitamin testing can help evaluate deficiencies that may contribute to tiredness, body pain, nerve symptoms, or bone health concerns. S. P. L Path Lab offers commonly requested vitamin tests in Gwalior.",
     symptoms: ["Persistent tiredness", "Body ache", "Bone pain", "Tingling or numbness", "Low sunlight exposure", "Dietary restrictions"],
     whyNeeded:
       "Vitamin test results help your doctor decide whether supplementation or further evaluation is needed.",
@@ -402,7 +402,7 @@ export const servicePages: ServicePage[] = [
     title: "Urine Testing in Gwalior",
     shortTitle: "Urine Testing",
     metaDescription:
-      "Call or WhatsApp Pathako Lab for urine routine examination and urine testing in Gwalior for infection, sugar, protein, and routine screening.",
+      "Call or WhatsApp S. P. L Path Lab for urine routine examination and urine testing in Gwalior for infection, sugar, protein, and routine screening.",
     introduction:
       "Urine testing helps screen for infection, sugar, protein, and other routine markers. It is often advised for fever, urinary symptoms, pregnancy care, diabetes monitoring, and preventive checkups.",
     symptoms: ["Burning urination", "Frequent urination", "Lower abdominal pain", "Fever", "Diabetes monitoring", "Routine screening"],
@@ -427,9 +427,9 @@ export const servicePages: ServicePage[] = [
     title: "Preventive Health Checkups in Gwalior",
     shortTitle: "Preventive Health Checkups",
     metaDescription:
-      "Explore preventive health checkups in Gwalior at Pathako Lab for families, senior citizens, diabetic patients, and working professionals.",
+      "Explore preventive health checkups in Gwalior at S. P. L Path Lab for families, senior citizens, diabetic patients, and working professionals.",
     introduction:
-      "Preventive health checkups help track important health markers before problems become more difficult to manage. Pathako Lab offers practical health packages for adults, families, senior citizens, and corporate employees in Gwalior.",
+      "Preventive health checkups help track important health markers before problems become more difficult to manage. S. P. L Path Lab offers practical health packages for adults, families, senior citizens, and corporate employees in Gwalior.",
     symptoms: ["Routine annual checkup", "Family history of illness", "Diabetes or blood pressure risk", "Work stress", "Senior citizen monitoring", "Lifestyle risk factors"],
     whyNeeded:
       "Regular screening helps your doctor review sugar, cholesterol, organ function, blood count, and other markers in one place.",
@@ -452,9 +452,9 @@ export const servicePages: ServicePage[] = [
     title: "Home Sample Collection in Gwalior",
     shortTitle: "Home Sample Collection",
     metaDescription:
-      "Schedule home sample collection in Gwalior with Pathako Lab for routine blood tests, diabetes monitoring, thyroid tests, and health checkups.",
+      "Schedule home sample collection in Gwalior with S. P. L Path Lab for routine blood tests, diabetes monitoring, thyroid tests, and health checkups.",
     introduction:
-      "Home sample collection is helpful for senior citizens, busy professionals, patients with mobility difficulty, and families who prefer collection at home. Pathako Lab offers home sample collection in Gwalior with appointment-based coordination.",
+      "Home sample collection is helpful for senior citizens, busy professionals, patients with mobility difficulty, and families who prefer collection at home. S. P. L Path Lab offers home sample collection in Gwalior with appointment-based coordination.",
     symptoms: ["Difficulty visiting the lab", "Senior citizen care", "Regular diabetes monitoring", "Family checkups", "Post-illness follow-up", "Busy work schedule"],
     whyNeeded:
       "A home visit can make testing easier while still allowing samples to be processed through the lab's diagnostic workflow.",
@@ -467,7 +467,7 @@ export const servicePages: ServicePage[] = [
       },
       {
         question: "Is home collection available at night?",
-        answer: "Pathako Lab offers 24×7 blood testing support. Call directly to confirm urgent or late-night home visit availability.",
+        answer: "S. P. L Path Lab offers 24×7 blood testing support. Call directly to confirm urgent or late-night home visit availability.",
       },
     ],
     cta: "Need Home Collection?",
