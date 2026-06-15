@@ -443,7 +443,7 @@ export function PathakoLanding() {
           <a
             href="#"
             className="flex items-center gap-3"
-            aria-label="Pathako Lab home"
+            aria-label="S. P. L. Path Lab home"
             onClick={() => setIsMenuOpen(false)}
           >
             <span className="flex size-11 items-center justify-center rounded-2xl bg-[#0E5CAD] text-white shadow-lg shadow-blue-900/15">
@@ -451,9 +451,9 @@ export function PathakoLanding() {
             </span>
             <span>
               <span className="font-heading block text-lg font-bold leading-5 text-[#1B2A41]">
-                Pathako Lab
+                S. P. L. Path Lab
               </span>
-              <span className="text-xs font-medium text-[#5F6B7A]">
+              <span className="text-[10px] font-medium text-[#5F6B7A]">
                 Dr. V. Khare, M.D. Pathologist
               </span>
             </span>
@@ -510,16 +510,16 @@ export function PathakoLanding() {
                 href="#"
                 onClick={() => setIsMenuOpen(false)}
                 className="flex items-center gap-3"
-                aria-label="Pathako Lab home"
+                aria-label="S. P. L. Path Lab home"
               >
                 <span className="flex size-11 items-center justify-center rounded-2xl bg-[#0E5CAD] text-white">
                   <Microscope className="size-6" />
                 </span>
                 <span>
                   <span className="font-heading block text-base font-bold leading-5 text-[#1B2A41]">
-                    Pathako Lab
+                    S. P. L. Path Lab
                   </span>
-                  <span className="text-xs font-medium text-[#5F6B7A]">
+                  <span className="text-[10px] font-medium text-[#5F6B7A]">
                     Dr. V. Khare, M.D.
                   </span>
                 </span>
@@ -1484,7 +1484,7 @@ export function PathakoLanding() {
                 <Microscope className="size-6" />
               </span>
               <div>
-                <p className="font-heading text-xl font-bold">Pathako Lab</p>
+                <p className="font-heading text-xl font-bold">S. P. L. Path Lab</p>
                 <p className="text-sm text-white/65">Gwalior Diagnostic Services</p>
               </div>
             </div>
